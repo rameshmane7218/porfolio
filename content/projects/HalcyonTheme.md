@@ -5,10 +5,9 @@ github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Redux
+  - Chakra-UI
 showInProjects: false
 ---
 
